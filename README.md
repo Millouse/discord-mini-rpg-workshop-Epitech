@@ -32,7 +32,7 @@ On va donc pouvoir commencer !
 
 ## Setup du bot
 
-Pour ceux qui n'était pas la ce matin, je vous dirige sur ce README.md afin de pouvoir setup votre bot sans difficulté : *lien du premier workshop*
+Pour ceux qui n'était pas la ce matin, je vous dirige sur ce README.md afin de pouvoir setup votre bot sans difficulté : https://github.com/hollitizz/Workshop-bot-Discord/
 
 Une fois cela fait, on va télécharger le fichier ```main.py``` et compléter avec les infos de votre bot
 
